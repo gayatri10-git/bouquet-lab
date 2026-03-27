@@ -1,20 +1,86 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Floral Website
 
-# Run and deploy your AI Studio app
+A visually cohesive, luxury-inspired floral boutique website designed with a strong focus on aesthetic UI, curated visuals, and a seamless user experience.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/cbc7e61d-4bea-461d-83db-86bbcbcd261a
+## ✨ Overview
 
-## Run Locally
+This project is a premium web interface that transforms a static layout into a soft, editorial-style floral experience.
+The design emphasizes minimalism, pastel aesthetics, and a consistent visual identity — creating a website that feels like a curated Pinterest board brought to life.
 
-**Prerequisites:**  Node.js
+---
 
+## 🎨 Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* 🌸 Elegant, pastel-themed UI design
+* 📸 Cohesive bouquet-focused visual experience
+* 🧩 Clean and structured layout with soft spacing
+* ✨ Smooth hover effects and subtle interactions
+* 📱 Fully responsive design across devices
+* 💎 Luxury-inspired branding and typography
+
+---
+
+## 🖼️ Design Philosophy
+
+This project follows a **“single photoshoot aesthetic”** approach:
+
+* All visuals maintain consistent lighting, tones, and composition
+* No random or generic stock imagery
+* Soft, romantic, and minimal design language
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML / CSS / JavaScript *(or React — update if needed)*
+* Designed using Google AI Studio
+* Deployed using Vercel / Netlify
+
+---
+
+## 🚀 Deployment
+
+The project is deployed and accessible online.
+To run locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# Open index.html
+```
+
+*(If using React, replace with npm install & npm run dev)*
+
+---
+
+## 💡 Inspiration
+
+Inspired by:
+
+* Pinterest aesthetic layouts
+* Editorial fashion websites
+* Minimal luxury brand interfaces
+
+---
+
+## 📌 Future Improvements
+
+* 🛍️ Add full e-commerce functionality
+* 🎨 Advanced animations and transitions
+* 🧠 AI-based customization features
+* 📦 Backend integration for orders
+
+---
+
+## 💖 Author
+
+Created with attention to detail and a focus on aesthetic design ✨
+
+---
+
+## 🌷 Final Note
+
+This project is not just a website — it’s a visual experience designed to feel soft, premium, and emotionally engaging.
